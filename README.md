@@ -16,17 +16,14 @@ The side containing cancer and the side without cancer were separately stored.
 1. (manual) Two box-shaped ROIs were manually placed on the axial and sagittal maximum intensity projection (MIP) images, respectively.
 2. (automatic) 3D ground truth segmentations were automatically generated using the box-shaped ROIs.
 3. verification and correction
-<img width="91" alt="image" src="https://github.com/hufsaim/breastcancerseg/assets/68457144/0464ed6a-f90f-4978-8069-2389b6b5e4fb">
-
 
 ## Segmentation model
-A 3D UNETR model was trained for automatic cancer segmentation. 
+A [3D UNETR model](https://arxiv.org/abs/2103.10504) was trained for automatic cancer segmentation. 
 
 
-## Training procedure
-
-
-## Inference
-
+## Training & Inference
+- Training
+- Inference
+The codes will be released when the paper is accepted.
 
 
