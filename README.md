@@ -24,6 +24,7 @@ A [3D UNETR model](https://arxiv.org/abs/2103.10504) was trained for automatic c
 ## Training & Inference
 - Training
 - Inference
+
 The codes will be released when the paper is accepted.
 
 
